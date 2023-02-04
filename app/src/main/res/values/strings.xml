@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mobile Application Assignment</string>
+    <string name="title_dashboard">dashboard</string>
+    <string name="title_favourite">starred</string>
+    <string name="title_add_record">add_record</string>
+    <string name="title_news">News</string>
+    <string name="title_settings">settings</string>
+    <string name="title_news_details">News Details</string>
+    <string name="name">name</string>
+    <string name="desc">Description</string>
+</resources>
